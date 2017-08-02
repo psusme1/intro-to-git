@@ -6,3 +6,11 @@
 
 # Git Repository
 - Where all of our snapshots are stored
+- 
+# git add <FILENAME>
+# git committ -m "[message]"
+# git status
+# mkdir [DirectoryName]
+# git log
+# git rm --cached [FileName]
+
