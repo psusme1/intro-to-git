@@ -13,4 +13,8 @@
 # mkdir [DirectoryName]
 # git log
 # git rm --cached [FileName]
+# git init
+# touch [FileName] && touch [FileName2] && touch [FileName3] ...
+# git add -A 
+# git add *.html
 
